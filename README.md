@@ -1,5 +1,6 @@
 # Housing-price-prediction-project-using-linear-regression
 This project involves predicting housing prices for Bengaluru region using Linear regression. This project involves the data cleaning and preparation, Feature Engineering, outlier detection and imputing them, train-test split, dummy variables with one-hot encoding,  training the model, evaluating the model and picking the best model.
+
 I worked on a real-world Machine Learning project where the goal was to predict house prices in Bangalore based on features like location, total square footage, number of bedrooms, and bathrooms.
 
 I started with data cleaning. The raw dataset had missing values, inconsistent formats for square footage, and some unrealistic entries. I cleaned the data by removing null values, converting ranges into numerical values, and filtering out properties that didn’t make logical sense.
